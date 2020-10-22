@@ -7,5 +7,5 @@ export default {
 
 export const Default = () =>
   <Button m={[ 0, 1, 2 ]}>
-    Default Button Test
+    Default Button Example
   </Button>
