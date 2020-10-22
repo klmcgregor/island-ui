@@ -11,16 +11,6 @@
   "files": [
     "lib/**/*"
   ],
-  "babel": {
-    "presets": [
-      [
-        "react-app",
-        {
-          "absoluteRuntime": false
-        }
-      ]
-    ]
-  },
   "scripts": {
     "start": "storybook",
     "story": "storybook",
@@ -39,6 +29,16 @@
     "url": "https://github.com/klmcgregor/island-ui/issues"
   },
   "homepage": "https://github.com/klmcgregor/island-ui#readme",
+  "babel": {
+    "presets": [
+      [
+        "react-app",
+        {
+          "absoluteRuntime": false
+        }
+      ]
+    ]
+  },
   "dependencies": {
     "@styled-system/theme-get": "^5.1.2",
     "react": "^17.0.0",
