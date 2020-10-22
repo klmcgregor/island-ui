@@ -9,7 +9,7 @@
     "test": "jest",
     "storybook": "start-storybook -p 3003",
     "build-storybook": "build-storybook -o docs-build",
-    "public": "build-storybook && http-server ./storybook-static -o"
+    "public": "build-storybook -o docs-build && http-server /docs-build -o"
   },
   "repository": {
     "type": "git",
