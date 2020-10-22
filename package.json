@@ -8,8 +8,7 @@
     "story": "storybook",
     "test": "jest",
     "storybook": "start-storybook -p 3003",
-    "build-story": "build-storybook",
-    "deploy-story": "build-storybook -o docs-build",
+    "build-storybook": "build-storybook -o docs-build",
     "public": "build-storybook && http-server ./storybook-static -o"
   },
   "repository": {
