@@ -1,4 +1,4 @@
-import DefaultTheme from 'themes/theme'
+import theme from 'themes/theme'
 import {
   GlobalCSS,
   Box,
@@ -13,7 +13,7 @@ import {
 } from 'components';
 
 export {
-  DefaultTheme,
+  theme,
   GlobalCSS,
   Box,
   Wrapper,
