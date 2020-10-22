@@ -8,8 +8,8 @@ import theme from '../src/themes/theme';
 // automatically import all files ending in *.stories.js
 configure(
   [
-    require.context('../src/foundation', true, /\.stories\.(mdx|js)$/),
-    require.context('../src/components', true, /\.stories\.(mdx|js)$/),
+    require.context('../stories/foundation', true, /\.stories\.(mdx|js)$/),
+    require.context('../stories/components', true, /\.stories\.(mdx|js)$/),
   ],
   module
 );

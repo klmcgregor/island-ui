@@ -5,7 +5,7 @@ import {
   Wrapper,
   Row,
   Column,
-} from './';
+} from '../../src/foundation';
 
 export default {
   title: 'Foundation/Grid System',

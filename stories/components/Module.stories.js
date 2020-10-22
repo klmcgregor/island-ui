@@ -3,8 +3,8 @@ import {
   Wrapper,
   Row,
   Column,
-} from '../../foundation';
-import Module from './Module';
+} from '../../src/foundation';
+import Module from '../../src/components/Module';
 
 export default {
   title: 'Components/Module',
