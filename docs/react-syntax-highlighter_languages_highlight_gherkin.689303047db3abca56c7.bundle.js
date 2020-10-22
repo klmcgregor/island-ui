@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[63],{537:function(module,exports,__webpack_require__){module.exports=__webpack_require__(1)("QUiR")}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_highlight_gherkin.689303047db3abca56c7.bundle.js.map
