@@ -65,3 +65,6 @@ storybook-static/*
 docs-build/*
 public/*
 www/*
+
+dist/*
+.env
