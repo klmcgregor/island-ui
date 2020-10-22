@@ -63,7 +63,12 @@ package-lock.json
 # Storybook build directory
 storybook-static/*
 docs-build/*
-public/*
-www/*
+
+# build folders
+lib/
+build/
+dist/
+public/
+www/
 
 .env
