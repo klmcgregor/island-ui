@@ -66,5 +66,7 @@ docs-build/*
 public/*
 www/*
 
+docs/*
+
 dist/*
 .env
