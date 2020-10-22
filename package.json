@@ -1,6 +1,6 @@
 {
   "name": "island-ui",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A Design System of React components using the Styled System library",
   "author": "Kyle L. McGregor",
   "license": "MIT",
