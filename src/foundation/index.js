@@ -11,5 +11,5 @@ export {
   Box,
   Wrapper,
   Row,
-  Column, 
+  Column,
 };

@@ -2,8 +2,7 @@ import React from 'react';
 import { configure, addDecorator } from '@storybook/react';
 import { ThemeProvider } from 'styled-components';
 import reset from 'styled-reset';
-import { GlobalCSS } from '../src/foundation';
-import theme from '../src/themes/theme';
+import { GlobalCSS, theme } from '../src/island-ui';
 
 // automatically import all files ending in *.stories.js
 configure(

@@ -1,16 +1,18 @@
-import theme from 'themes/theme'
+import {
+  theme,
+} from './themes';
 import {
   GlobalCSS,
   Box,
   Wrapper,
   Row,
   Column,
-} from 'foundation';
+} from './foundation';
 
 import {
   Button,
   Module,
-} from 'components';
+} from './components';
 
 export {
   theme,

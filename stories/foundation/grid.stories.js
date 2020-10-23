@@ -63,10 +63,7 @@ export const gridStory = () => {
   );
 };
 
-gridStory.story = {
-  name: 'Grid',
-};
-
+gridStory.storyName = 'Grid';
 
 export const boxStory = () => (
   <Box
@@ -75,9 +72,7 @@ export const boxStory = () => (
   />
 );
 
-boxStory.story = {
-  name: 'Box',
-};
+boxStory.storyName = 'Box';
 
 export const wrapperStory = () => (
   <Wrapper bg="midnightblue">
@@ -85,9 +80,7 @@ export const wrapperStory = () => (
   </Wrapper>
 );
 
-wrapperStory.story = {
-  name: 'Wrapper',
-};
+wrapperStory.storyName = 'Wrapper';
 
 export const rowStory = () => (
   <Wrapper>
@@ -97,9 +90,7 @@ export const rowStory = () => (
   </Wrapper>
 );
 
-rowStory.story = {
-  name: 'Row',
-};
+rowStory.storyName = 'Row';
 
 export const columnStory = () => (
   <Wrapper>
@@ -120,9 +111,7 @@ export const columnStory = () => (
   </Wrapper>
 );
 
-columnStory.story = {
-  name: 'Column',
-};
+columnStory.storyName = 'Column';
 
 export const columnResponsiveWidthsStory = () => {
   const columnsArray = [];
@@ -150,6 +139,4 @@ export const columnResponsiveWidthsStory = () => {
   );
 };
 
-columnResponsiveWidthsStory.story = {
-  name: 'Column with Responsive Widths',
-};
+columnResponsiveWidthsStory.storyName = 'Column with Responsive Widths';

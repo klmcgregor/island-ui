@@ -1,5 +1,5 @@
-import Button from 'components/Button';
-import Module from 'components/Module';
+import Button from './Button';
+import Module from './Module';
 
 export {
   Button,
