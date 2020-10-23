@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[78],{553:function(module,exports,__webpack_require__){module.exports=__webpack_require__(1)("YohI")}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_highlight_inform7.2c237cc04f0d98d5c5e8.bundle.js.map
